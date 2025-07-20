@@ -1,18 +1,16 @@
-<h6 align="center">YourKa0z MyKa0z</h6>
+<h2 align="center">YourKa0z MyKa0z</h2>
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif"  />
-
-###
-
-<p align="left">#include <iostream><br>using namespace std;<br><br>int main() {<br>    cout << "Hello, world!" << endl;<br>    cout << "I am Ka0z" << endl;<br>    return 0;<br>}</p>
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -28,18 +26,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourKa0z/yourKa0z/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourKa0z/yourKa0z/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yourKa0z/yourKa0z/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Kaoz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Kaoz&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<p align="left">Hi! I’m Ka0z, a programming enthusiast and beginner.<br>I’m passionate about coding and eager to learn more every day.<br>I love everything related to programming and computer science.</p>
 
 ###
